@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qB1LTclnHXPSHvNcqo/ya4XOaRV62fc4y6M5hYuWhcCSrwBq5KR3KxPToPept3F5QJuRFF7o7jZ42QqflJJUYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.florentino\\source\\repos\\AwesomeDevEventsAPI\\AwesomeDevEventsAPI\\AwesomeDevEventsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.florentino\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
